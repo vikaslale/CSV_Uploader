@@ -10,7 +10,7 @@
 
 
 # 🧪 **How to Run**
-     git clone 
+      Git clone:-  https://github.com/vikaslale/CSV_Uploader.git
      cd CSV-Uploader
 
 
